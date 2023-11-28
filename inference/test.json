@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Rate the given essay on a scale of 1 to 10.",
+        "input": "This essay is discussing the benefits of exercising. Exercise improves the physical and mental health of individuals. Regular exercise can reduce the chance of developing certain diseases, such as heart disease, strokes and diabetes. It can also help to regulate mood and reduce stress. Exercising also helps to improve cognitive functioning, strengthens the bones and joints, and can lead to improved physical fitness and overall wellbeing.",
+        "output": "I would rate this essay 9 out of 10. The essay clearly outlines the benefits of exercising and does so in a compact and organized manner. The evidence presented is relevant and supported. Plus, the author provides an understandable conclusion. My only critique is that the author should have provided a few examples to support some of their points."
+    },
+    {
+        "instruction": "Generate a creative poem using natural language processing.",
+        "input": "",
+        "output": "The sun sets in glory\nThe sky ablaze in red\nThe light of day lingering\nFading, until nightfall ahead\n\nThe moonlight a lullaby\nGently singing a sweet serenade\nA somber peace upon the land\nAs the night moves in its shade."
+    },
+    {
+        "instruction": "Given an English vocabulary word, define it in 1 to 2 sentences.",
+        "input": "Abrogate",
+        "output": "Abrogate is a verb that means to formally cancel or repeal a law, treaty, or agreement. It is commonly used to indicate an intentional abandonment or renunciation of rights, privileges, or obligations."
+    },
+    {
+        "instruction": "Given a list of countries, look up their respective capitals.",
+        "input": "Poland, Germany",
+        "output": "The capital of Poland is Warsaw and the capital of Germany is Berlin."
+    },
+    {
+        "instruction": "Generate a chart to summarize the following data",
+        "input": "Books Sold \u2013 10,000\nBooks Returned \u2013 2,000\nBooks on Hand \u2013 8,000",
+        "output": "Books Sold | Books Returned | Books on Hand\n------------ | ------------- | --------------\n10,000 | 2,000 | 8,000"
+    },
+    {
+        "instruction": "What is the main benefit of having a healthy lifestyle?",
+        "input": "",
+        "output": "The primary benefit of having a healthy lifestyle is an increased sense of overall wellbeing. A healthy lifestyle can improve physical and mental health, boost energy levels, improve focus and concentration, reduce stress, boost immunity, and help to maintain a healthy weight. Additionally, leading a healthy lifestyle can also reduce the risk of developing chronic diseases, such as heart disease, stroke, diabetes, and cancer."
+    },
+    {
+        "instruction": "Name three common methods of identity verification.",
+        "input": "",
+        "output": "Three common methods of identity verification are: passwords, security questions, and biometric authentication."
+    },
+    {
+        "instruction": "List two benefits of cloud computing",
+        "input": "",
+        "output": "1. Cost efficiency: Cloud computing offers businesses a cost-effective way to store and access data. They don't need to invest in expensive hardware to increase their storage capacity.\n2. Scalability: Cloud computing makes it easier for businesses to scale up or down their data storage and computing power as needed. This makes it easier for businesses to respond quickly to changing market conditions and demands."
+    },
+    {
+        "instruction": "Automate the following task: Every time someone sends an email to the customer service mailbox, send a reply thanking the customer for the message.",
+        "input": "",
+        "output": "Sorry, the task involves complex actions which must be take by a human. The GPT model cannot perform such actions."
+    },
+    {
+        "instruction": "Summarize the main points of the given article in three sentences.",
+        "input": "Article:\nClimate change has become a top global issue that is threatening the planet\u2019s fragile ecosystems and people\u2019s livelihoods. The impacts of global warming devastatingly are the most felt by vulnerable communities in the Global South. Everyone across the world is needed to take action to help stop climate change.",
+        "output": "Climate change is having a profound effect on the planet and its people, particularly communities in the Global South. Everyone must take action to reduce the effects of climate change. This could include reducing carbon emissions, consuming less and using renewable energy sources."
+    },
+    {
+        "instruction": "List 10 books that have won a Pulitzer Prize.",
+        "input": "",
+        "output": "- The Echo Maker by Richard Powers (2006)\n- The Hours by Michael Cunningham (1999)\n- Atonement by Ian McEwan (2002)\n- All the Light We Cannot See by Anthony Doerr (2015)\n- The Amazing Adventures of Kavalier and Clay by Michael Chabon (2001)\n- Rabbit is Rich by John Updike (1982)\n- The Sympathizer by Viet Thanh Nguyen (2016)\n- The Grapes of Wrath by John Steinbeck (1940)\n- Beloved by Toni Morrison (1988)\n- A Passage to India by E.M. Forster (1924)"
+    },
+    {
+        "instruction": "In the following sentence, categorize the words under parts of speech:",
+        "input": "Ants are marching in the garden.",
+        "output": "Noun (Ants), Verb (are marching), Preposition (in), Noun (garden)."
+    },
+    {
+        "instruction": "Translate \"Ich bin ein Berliner\" into English.",
+        "input": "",
+        "output": "I am a Berliner."
+    },
+    {
+        "instruction": "Describe the view you will find at the beach.",
+        "input": "",
+        "output": "At the beach, you will find a vast expanse of sand, stretching as far as the eye can see. The shore is lined with invitingly warm, turquoise waters, dotted with sailboats and yachts. On the horizon, you can see the hazy silhouettes of other nearby islands and tall, snow-capped mountains in the distance."
+    },
+    {
+        "instruction": "Compute the area of a triangle with the vertices (3,4), (5,6), (7,8)",
+        "input": "",
+        "output": "The area of the triangle is 10.5 units."
+    },
+    {
+        "instruction": "Provide me 3 facts about penguins",
+        "input": "",
+        "output": "1. Penguins are flightless birds that live in the southern hemisphere. 2. Penguins do not have teeth, instead they have short, broad beaks. 3. There are more than 17 species of penguins, all found only in the Southern Hemisphere."
+    },
+    {
+        "instruction": "Generate a teaser for the given film.",
+        "input": "The Lord of the Rings.",
+        "output": "From the creators of The Lord of the Rings comes a thrilling epic adventure like no other! Follow the journey of a daring fellowship battle against the forces of evil in Middle Earth. Discover the fate of a kingdom as they fight to restore the order between the races of men, elves, and dwarves. Join them in the greatest adventure yet - The Lord of the Rings!"
+    },
+    {
+        "instruction": "Find the sentence which does not fit in to the context of the other sentences.",
+        "input": "He decided to pack his new tent. He chose the lightest sleeping bag available. He packed his hiking boots. He selected a lunchbox. He ordered a new book.",
+        "output": "He ordered a new book."
+    },
+    {
+        "instruction": "Identify the type of the following sentence: \"Alice is really happy about the result.\"",
+        "input": "",
+        "output": "Declarative sentence."
+    },
+    {
+        "instruction": "What is a trade deficit?",
+        "input": "",
+        "output": "A trade deficit is a situation in which a country imports more goods than it exports. It occurs when the value of the country's exports falls below the value of its imports. It is typically evaluated by looking at the total value of goods and services a country imports and exports over a certain period of time."
+    },
+    {
+        "instruction": "Transport the following sentence from the present to the future tense:",
+        "input": "I am going to the store.",
+        "output": "I will go to the store."
+    },
+    {
+        "instruction": "Create a list of skills an engineer needs to have.",
+        "input": "",
+        "output": "An engineer should possess a range of skills, including:\n- Technical Problem Solving \u2013 Ability to identify, analyze, and create solutions to technical problems.\n- Critical Thinking - Ability to think in a structured, analytical and creative manner, and to exercise judgment when making decisions.\n- Written and Verbal Communication - Ability to effectively communicate thoughts and ideas in written and in verbal formats.\n- Teamwork \u2013 Working collaboratively with others to solve complex problems.\n- Time Management - Ability to plan and prioritize work in order to meet deadlines.\n- Leadership \u2013 Ability to lead projects, teams and initiatives.\n- Research \u2013 Ability to conduct research and obtain necessary data to inform decisions.\n- Management and Planning \u2013 Ability to plan and manage projects and resources.\n- Analytical Skills \u2013 Ability to identify and analyze complex data, draw conclusions and make appropriate recommendations.\n- Computer Skills \u2013 Ability to use various computer programs such as Microsoft Office, MATLAB, AutoCAD, etc."
+    },
+    {
+        "instruction": "Construct an example of a valid CSS rule.",
+        "input": "",
+        "output": "body {\n    background-color: white;\n}"
+    },
+    {
+        "instruction": "Explain what is machine learning and identify its application.",
+        "input": "",
+        "output": "Machine learning is a form of artificial intelligence that involves giving computers and machines the ability to learn from data, identify patterns and make decisions with minimal human intervention. It uses data-driven algorithms and computer models to learn from data and automate decisions to develop solutions. Machine learning has applications in many industries, including healthcare, finance, retail, education, and manufacturing. It is used for tasks like automated personalized recommendation systems, fraud and anomaly detection, natural language processing and image recognition."
+    },
+    {
+        "instruction": "How do you go about finding the best deal when buying a car?",
+        "input": "",
+        "output": "When buying a car, it is important to research the different models, prices, and dealerships. Comparing prices and options online can help you find the best deal. You should also test drive the car to make sure it meets your needs and preferences. Additionally, it is beneficial to read reviews of the car or dealership before making a purchase."
+    },
+    {
+        "instruction": "Sort the following vegetables by their colors.",
+        "input": "Tomato, Carrot, Broccoli, Avocado",
+        "output": "Red (Tomato), Orange (Carrot), Green (Broccoli, Avocado)"
+    },
+    {
+        "instruction": "Explain why the following product has poor reviews.",
+        "input": "Apple Airpods Pro",
+        "output": "The Apple Airpods Pro have poor reviews because they have a lower sound quality than expected and are expensive compared to other products with similar features. Additionally, they have limited noise cancellation, have problems with connectivity, and have a shorter battery life than advertised."
+    },
+    {
+        "instruction": "Reword the sentence by changing its tense to the past.",
+        "input": "The driver carefully turns the corner.",
+        "output": "The driver carefully turned the corner."
+    },
+    {
+        "instruction": "Generate a suitable metaphor to convey the concept of 'breaking a barrier'",
+        "input": "",
+        "output": "Breaking a barrier is like knocking down a wall, shattering the limits that stand in the way of progress."
+    },
+    {
+        "instruction": "Generate a short story about a person in survival mode.",
+        "input": "",
+        "output": "John had always been an adventurous spirit, and so when he heard about the remote wilderness region in Alaska, he jumped at the chance to explore it. He was not prepared, however, for the ferocity of the elements he encountered. Every day was a battle against sub-zero temperatures, relentless winds and snowdrifts, and an unforgiving landscape. But with his wits and determination, John managed to survive and eventually find himself in the safety of civilization. He had learned to appreciate the essentials of life, and he was sure he would never take little things like food and shelter for granted again."
+    },
+    {
+        "instruction": "Make an analogy comparing two different concepts.",
+        "input": "",
+        "output": "Studying is like a journey - you learn new information as you go and eventually reach your destination of mastering the subject."
+    },
+    {
+        "instruction": "Identify three ways in which the government can reduce the problem of air pollution.",
+        "input": "",
+        "output": "The government can reduce air pollution by encouraging carpooling and public transportation by providing incentives and implementing laws to reduce emissions from vehicles; regulating industrial pollutants by setting emissions standards for companies and enforcing those standards; and increasing the green spaces around cities through tree planting and land conservation, which can help to reduce ground level ozone and smog."
+    },
+    {
+        "instruction": "Give a review of the movie \"The Martian\".",
+        "input": "",
+        "output": "The Martian is a thrilling and inspiring science fiction drama about an astronaut stranded on Mars who must find a way to survive until he can be rescued. The movie does an excellent job of showing the difficulty and ingenuity of the astronaut\u2019s struggle, making it a very exciting and intense story. The cast does a great job of embodying their characters and the spectacular CGI visuals create a convincing and detailed representation of Mars. The movie is very thought-provoking and will leave you feeling inspired and amazed by the human spirit. Highly recommended."
+    },
+    {
+        "instruction": "Give two examples of how machine learning can be used at a business.",
+        "input": "",
+        "output": "1. Predictive analysis: Machine learning can be used to develop predictive models that allow businesses to anticipate customer purchases, identify sales trends, and target advertising campaigns. \n2. Customer segmentation: Machine learning can be used to sort customer data into segments based on customer behaviour, preferences, and purchasing histories so that businesses can tailor products or services to specific customer groups."
+    },
+    {
+        "instruction": "Summarize the text into 25 words or fewer.",
+        "input": "The global COVID-19 pandemic has been an unprecedented event that has had a wide-reaching impact on the entire world.",
+        "output": "Global pandemic caused by COVID-19 has caused upheaval worldwide, with widespread implications."
+    },
+    {
+        "instruction": "Replace the word \"diffferent\" with the correct word:",
+        "input": "The group discussed the controversial topic in diffferent manners.",
+        "output": "The group discussed the controversial topic in various manners."
+    },
+    {
+        "instruction": "Create a questionnaire assessing safety in the workplace.",
+        "input": "",
+        "output": "1. Are employees aware of safety policies and regulations in the workplace?\n2. Are personal protective equipment (PPE) worn when necessary?\n3. Are tools, machines and equipment regularly maintained and inspected for safety?\n4. How do employees report any hazards, injuries or near misses?\n5. Are appropriate measures taken after reports of injuries, near misses or hazards?\n6.Are visitors alerted to possible hazards in the area?\n7. Are safety signs and signals installed in necessary places and are they clearly visible?\n8. Is safety training regularly provided to employees?\n9. Are emergency exits clearly marked and unobstructed?\n10. Are employees aware of the signs and symptoms of common occupational diseases?"
+    },
+    {
+        "instruction": "Make a list of 3 ways to exercise with no equipment.",
+        "input": "",
+        "output": "1. Push-ups\n2. Running\n3. Squats"
+    },
+    {
+        "instruction": "Describe how a Data Scientist can use a titanic dataset",
+        "input": "",
+        "output": "Data Scientists can use a titanic dataset to gain insights into passenger behavior and risk factors related to death on the voyage. By analyzing the data, they can identify characteristics and trends associated with mortality, such as gender, age, ticket class, and so on. They could also use the data to create predictive models that can accurately estimate the likelihood of death under certain conditions. Additionally, they can use data visualization techniques to better understand patterns within the data."
+    },
+    {
+        "instruction": "Name 5 famous authors.",
+        "input": "",
+        "output": "William Shakespeare, J.K. Rowling, George Orwell, Stephen King, Ernest Hemingway."
+    },
+    {
+        "instruction": "Who won the 2017 Oscars for Best Actor?",
+        "input": "",
+        "output": "The 2017 Academy Award for Best Actor was awarded to Gary Oldman for his performance in the film \"Darkest Hour\"."
+    },
+    {
+        "instruction": "Compose a poem about winter using the given keywords.",
+        "input": "snow, frosty, ice, chilly",
+        "output": "A frosty winter night, \nThe sky glimmers with snow and ice.\nThe trees stand tall and chill,\nWrapped in an ethereal white crystal sill. \nThe cool air creates a mist,\nBlowing through gentle winds kissed. \nThe moon's reflection a sight to see,\nAs the stars twinkle above and below the deep sea. \nIt's time to tuck away tight,\nFor tonight there's a magical winter night."
+    },
+    {
+        "instruction": "Write an informative introduction for a horror novel",
+        "input": "",
+        "output": "The dark, moonless night cloaked the small town of Strathfield in fear. For years, it had been a peaceful and tranquil corner of the world but now, no one knew what dangers lurked in the shadows. Strange lights had been seen in the sky, a peculiar mist had engulfed the town, and terrible cries were heard coming from the forest. It seemed like something sinister was lurking within the walls of Strathfield and it was up to a brave few to find out what it was."
+    },
+    {
+        "instruction": "Given a list and a value, find the index of the given value in the list.",
+        "input": "List: [3, 8, 10, 20], Value: 10",
+        "output": "2"
+    },
+    {
+        "instruction": "Provide an example of a polygon that has six sides.",
+        "input": "",
+        "output": "A hexagon is an example of a polygon with six sides."
+    },
+    {
+        "instruction": "Take a text of any length and rephrase it as a haiku poem.",
+        "input": "Life is too short to waste away.",
+        "output": "Life fleeting always passes/Enjoy now for it slips away/Cherish moments worthwhile"
+    },
+    {
+        "instruction": "Compose a 20 word description on Artificial Intelligence",
+        "input": "",
+        "output": "Artificial Intelligence (AI) is a powerful tool of computers and machines to analyze complex data and make decisions based on it. AI can be used to process large datasets, build models, and make predictions more efficiently. It has an impressive range of applications such as natural language processing, image recognition and more."
+    },
+    {
+        "instruction": "Name two famous festivals celebrated in South America",
+        "input": "",
+        "output": "Two famous festivals celebrated in South America are Carnaval and Dia de los Muertos. Carnaval is an annual festival which is held in February before Ash Wednesday, and marks the beginning of Lent, a period of reflection in the Christian calendar. Dia de los Muertos is a festival, similar to Halloween, in which the living commemorate and celebrate the dead who, according to tradition, come back to the world of the living on that day. It is celebrated around November 1st."
+    },
+    {
+        "instruction": "Explain the term \"self-fulfilling prophecy.\"",
+        "input": "",
+        "output": "A self-fulfilling prophecy is an expectation that comes true because it causes people to act as if it is true. It can be positive or negative and it occurs when a person\u2019s expectations influence their behavior, which in turn influences the outcome of the situation. For example, if a person believes that they are not capable of success, then they may behave in a way that leads to failure, thereby fulfilling the prophecy that was created by their initial belief."
+    },
+    {
+        "instruction": "Generate a jingle that conveys the idea of safety.",
+        "input": "",
+        "output": "\"Safety, a priority, it's time to be wise\nAt home, work, and play, keep your guard and your eyes\nWash your hands and wear a mask, keep social distance as a task\nSafety, a priority, you'll be alright \nIt's just a matter of time, until this pandemic will end in sight!\""
+    },
+    {
+        "instruction": "Given two sentences, produce a unified sentence by proper coordination and subordination",
+        "input": "Alice makes coffee. Bob drinks tea.",
+        "output": "Alice makes coffee while Bob drinks tea."
+    },
+    {
+        "instruction": "Given a sentence, change the tense of the sentence.",
+        "input": "She watched the movie.",
+        "output": "She had watched the movie."
+    },
+    {
+        "instruction": "Given a list of three ingredients and the name of a dish, edit the dish to include all the given ingredients.",
+        "input": "Ingredients: garlic, mushrooms, tomatoes\nDish: Spaghetti Carbonara",
+        "output": "Spaghetti Carbonara with Garlic, Mushrooms, and Tomatoes"
+    },
+    {
+        "instruction": "Generate two questions about artificial intelligence for a quiz.",
+        "input": "",
+        "output": "Q1: What is the purpose of artificial intelligence?\nA1: The purpose of artificial intelligence is to solve complex problems, automate tasks, and make decisions in a way that mimics human intelligence. \n\nQ2: What are some popular machine learning algorithms?\nA2: Some popular machine learning algorithms include Support Vector Machines (SVMs), Decision Trees, Random Forests, k-Nearest Neighbor (kNN), Naive Bayes, and Neural Networks."
+    },
+    {
+        "instruction": "Name three parts of a computer.",
+        "input": "",
+        "output": "The three main components of a computer are the central processing unit (CPU), the main memory (RAM), and the storage device (hard drive, SSD, or optical disc)."
+    },
+    {
+        "instruction": "Construct a thesis statement for an essay about a rise in cybercrimes.",
+        "input": "",
+        "output": "The rise in cybercrimes is a major global concern, as it poses a grave threat to personal privacy, financial security, and national security."
+    },
+    {
+        "instruction": "Name one type of food eaten in Mexico.",
+        "input": "",
+        "output": "Taco is a popular type of food in Mexico. It is a folded, lightly fried corn or wheat tortilla filled with any variety of ingredients. The fillings usually include meats such as beef, chicken, or pork, as well as beans, cheese, and vegetables. Salsa, avocado, sour cream, guacamole, lettuce, and onion can also be added for additional flavor."
+    },
+    {
+        "instruction": "Given a table of data, identify the cause of the variation between the two variables.",
+        "input": "[Attached table]",
+        "output": "The variation between the two variables is most likely caused by a difference in their respective prices."
+    },
+    {
+        "instruction": "Capitalize the first letter in each word of the sentence.",
+        "input": "there is no reason for it to be this way",
+        "output": "There Is No Reason For It To Be This Way"
+    },
+    {
+        "instruction": "Given a programming language, generate a \"Hello World\" program.",
+        "input": "Java",
+        "output": "//This Java program prints \"Hello World\npublic class HelloWorld {\n   public static void main(String[] args) {\n      System.out.println(\"Hello World\");\n   }\n}"
+    },
+    {
+        "instruction": "Create a poem that expresses loneliness.",
+        "input": "",
+        "output": "I feel so alone in this world,\nNo one to catch me when I fall,\nSometimes I just want to curl up and disappear,\nAway from this bleakness that's everywhere.\n\nNo light to help me find my way,\nThe darkness just keeps growing day by day,\nI want to feel loved, I want to feel whole,\nBut no one knows how much I hurt in my soul.\n\nAll I can do is keep pushing on,\nHoping that one day I'll belong,\nIt's not easy but I must persist,\nAnd never forget that my worth is not a myth."
+    },
+    {
+        "instruction": "Rewrite the following general statement into an assertion statement.",
+        "input": "The internet has had a huge impact on our lives.",
+        "output": "The internet has had a profound influence on our everyday lives."
+    },
+    {
+        "instruction": "Write the time in a different format.",
+        "input": "7:45am",
+        "output": "07:45"
+    },
+    {
+        "instruction": "What are the positives and negatives of online communication?",
+        "input": "",
+        "output": "The positives of online communication include bridging geographical barriers, facilitating communication between people around the world, allowing people to communicate quicker and more efficiently, and accessing more diverse perspectives. On the downside, online communication can lead to feelings of loneliness, distortion of authentic relationships, and issue of online privacy."
+    },
+    {
+        "instruction": "Give an example of how someone could save money.",
+        "input": "",
+        "output": "One easy way to save money is to reduce the amount of unnecessary expenses. For example, instead of eating out every day, one could pack their lunch and bring it with them to work. Another way to save money is to increase income. This can be done by finding a second job or taking on freelance gigs. Lastly, one could also save by investing, either in the stock market or another financial instrument."
+    },
+    {
+        "instruction": "What are the three primary goals of content marketing?",
+        "input": "",
+        "output": "The three primary goals of content marketing are to attract an audience, to educate the audience and to encourage them to take action. Content marketing is used to build trust and relationships with customers, to engage an audience and to drive conversions. Content can be used to provide helpful information, to demonstrate expert knowledge, to drive leads and sales, and to encourage customer loyalty."
+    },
+    {
+        "instruction": "Propose a plan to reduce air pollution in urban areas.",
+        "input": "",
+        "output": "One strategy for reducing air pollution in urban areas is to transition away from fossil fuels and move toward cleaner sources of energy. This can be done by increasing investments in renewable energy sources, such as solar, wind, and hydro power. Additionally, cities can replace fossil fuel-powered vehicles with electric vehicles, or create incentives for residents to use public transportation. Cities can also create more green spaces, as trees and plants help to absorb and filter pollutants. Lastly, strict regulations and policies can be implemented to ensure that businesses are held accountable and comply with air quality standards."
+    },
+    {
+        "instruction": "What is the main hypothesis in the following research paper?",
+        "input": "This paper aims to investigate the role of the internet in information access and knowledge creation among teenagers in the US.",
+        "output": "The main hypothesis of this research paper is that the internet plays an important role in increasing access to information and knowledge creation among teenagers in the US."
+    },
+    {
+        "instruction": "What would be the most appropriate title for this article?",
+        "input": "This article discusses how social media has become an important factor in business marketing and how businesses can reach a wider audience through effective usage of various tools and platforms.",
+        "output": "\"Leveraging the Power of Social Media for Business Growth\""
+    },
+    {
+        "instruction": "Name three trends in the given field.",
+        "input": "AI",
+        "output": "Three trends in AI are: \n1. Automation \u2013 AI is being used to automate many processes, from production lines in factories to customer service tasks in call centers.\n2. Natural language processing \u2013 AI is being used to interpret and respond to natural language, allowing computers to understand human speech.\n3. Personalization \u2013 AI is being used to personalize experiences, such as suggesting products or services based on user data."
+    },
+    {
+        "instruction": "How do the jobs of scientists and engineers differ?",
+        "input": "",
+        "output": "Scientists and engineers serve different roles in the development of new technologies and solutions. Scientists conduct research and gather data to understand the physical and biological world, while engineers use this data to develop practical applications and systems. Scientists focus on exploring what is possible, whereas engineers focus on creating tangible products that meet specific requirements. Additionally, scientists typically work in a laboratory setting, while engineers typically work in industry or product design."
+    },
+    {
+        "instruction": "Classify the following sentence as either a metaphor or hyperbole.",
+        "input": "The room was so hot it felt like a sauna.",
+        "output": "Metaphor."
+    },
+    {
+        "instruction": "Generate an example of a task automation process involving natural language processing.",
+        "input": "",
+        "output": "An example of a task automation process involving natural language processing is automatic text summarization. Automatic text summarization is the process of condensing long pieces of text into shorter summaries by using natural language processing algorithms. It works by extracting key words, identifying important phrases, and selecting sentences that are relevant to the topic of the text. The result is a condensed version of the original text that captures the main points and is easier to understand."
+    },
+    {
+        "instruction": "Determine the differences between a tortoise and a turtle",
+        "input": "",
+        "output": "The main difference between a tortoise and a turtle is that a tortoise is a land-dwelling animal, while a turtle can live in either water or on land. Tortoises have large, sturdy feet that are designed for walking on land, while turtles have flippers that make them better adapted for swimming in the water. Additionally, the shells of turtles are generally more streamlined, while tortoises have more dome-like shells."
+    },
+    {
+        "instruction": "Generate a plausible sentence that reflects a certain feeling",
+        "input": "",
+        "output": "She felt a wave of peacefulness wash over her as she watched the clouds drift gently across the sky."
+    },
+    {
+        "instruction": "Find the current temperature in Tokyo",
+        "input": "",
+        "output": "Currently, the temperature in Tokyo is around 18\u00b0C (64\u00b0F)."
+    },
+    {
+        "instruction": "Given a list of task instructions, what type of task is each instruction?",
+        "input": "What is the definition of \"computer\"; Remove all duplicate words from the given sentence",
+        "output": "The first task is a classification task and the second task is an editing task."
+    },
+    {
+        "instruction": "Generate a list of 10 items to place in an emergency kit.",
+        "input": "",
+        "output": "1. A first aid kit\n2. Flashlight and extra batteries\n3. Non-perishable food items \n4. Water sources \n5. Emergency blankets \n6. Reusable water bottle \n7. Whistle\n8. Rain ponchos\n9. Portable radio\n10. Maps and compass"
+    },
+    {
+        "instruction": "Create an original list of questions for an interview with a famous person. Output the list.",
+        "input": "No Input",
+        "output": "Here is a list of questions for an interview with a famous person: \n1. What motivated you to pursue your goals in your career?\n2. What role does creativity play in your life and work?\n3. What challenges have you had to face along the way?\n4. What advice would you give to young people looking to follow in your footsteps?\n5. Are there any initiatives or causes you are passionate about?\n6. Do you have any inspirational quotes or words of advice to share?\n7. What projects are you currently working on and what are your future plans?\n8. What have you learned from your experiences that you would like to pass on to others?"
+    },
+    {
+        "instruction": "Explain to me how a computer virus can be contracted.",
+        "input": "",
+        "output": "Computer viruses can be contracted in various ways. Common methods include downloading files from untrustworthy websites, opening email attachments from unknown sources, and visiting websites that contain malicious code. Additionally, sharing unsecured computer systems with others can allow for the virus to spread from one system to another."
+    },
+    {
+        "instruction": "Describe a time you used your problem solving skills to solve an issue.",
+        "input": "",
+        "output": "During my summer internship, I encountered a problem with the project I was working on. I identified the root cause of the problem and developed a creative solution that involved utilizing multiple resources to find the best solution. I was able to complete the project on time and it was a success."
+    },
+    {
+        "instruction": "Generate sentences that use the idiom \u2018once in a blue moon\u2019.",
+        "input": "",
+        "output": "He only comes home once in a blue moon.\nShe comes out of her shell once in a blue moon. \nThe train only passes by here once in a blue moon. \nWe get a chance to do this activity once in a blue moon."
+    },
+    {
+        "instruction": "Classify news articles by their topics.",
+        "input": "\"New Vaccine Shows Promising Results in Early Trials\"",
+        "output": "Health and Medicine"
+    },
+    {
+        "instruction": "Make a list of 10 ideas for starting an online business.",
+        "input": "",
+        "output": "Here are 10 ideas to start an online business:\n1. Sell handmade crafts and art. \n2. Become a virtual assistant. \n3. Offer freelance services such as writing, website design, social media management, or programming. \n4. Start an ecommerce store. \n5. Become an online tutor. \n6. Create a subscription service. \n7. Start an online consulting business. \n8. Start an online coaching program. \n9. Sell digital products such as ebooks and software. \n10. Launch an affiliate program to generate revenue from other businesses."
+    },
+    {
+        "instruction": "Identify the incorrect statement: The Earth revolves around the moon. The moon revolves around the Sun. The Sun revolves around the Earth.",
+        "input": "",
+        "output": "The Earth revolves around the moon is the incorrect statement."
+    },
+    {
+        "instruction": "What are some ways to be more efficient?",
+        "input": "",
+        "output": "1. Set deadlines.\n2. Use tools to automate daily tasks.\n3. Define priorities and focus on the most important tasks.\n4. Set achievable goals and review progress.\n5. Break tasks down into smaller chunks.\n6. Streamline processes and eliminate redundancies.\n7. Schedule breaks throughout the day and stay organized."
+    },
+    {
+        "instruction": "Identify the political party of the given Member of Parliament.",
+        "input": "Jim Murphy",
+        "output": "Jim Murphy is a Labour Party MP in the United Kingdom. He represented the constituency of East Renfrewshire from 2005 to 2015 in the House of Commons."
+    },
+    {
+        "instruction": "Replace the underlined word with a suitable adjective.",
+        "input": "The chair was strong.",
+        "output": "The chair was sturdy."
+    },
+    {
+        "instruction": "Design a graphic t-shirt.",
+        "input": "A funny pun like: \"Tuckered Out\".",
+        "output": "A t-shirt with a graphic of a turtle wearing a backpack with a sign saying \"Tuckered Out\". The turtle is surrounded by the phrase \"Sometimes you just need a break\" in a creative font. Underneath it, the words \"This is why I always carry my own shell\" appear in a fun font. The colors for the shirt could be a light grey or khaki for the turtle and the backpack and a bright blue for the text."
+    },
+    {
+        "instruction": "Compare and contrast the roles of nature versus nurture in human behavior.",
+        "input": "",
+        "output": "Nature versus nurture is the debate between whether human behavior is determined by inherited genes and traits or if it is shaped by environment and experiences. Nature-focused theorists believe that biological factors such as genetics and hormones are the primary influences on behavior, while nurture-focused theorists believe that behavior is determined by environmental influences such as parental rearing and social interaction. While it is clear that both nature and nurture play a role in determining human behavior, the exact balance and contribution of each is still an area of discussion and debate."
+    },
+    {
+        "instruction": "Describe a common behavior that is indicative of trust.",
+        "input": "",
+        "output": "One common behavior that is indicative of trust is communication. When people trust each other, they can express their opinions and ideas openly in conversations. When people share their experiences, thoughts and feelings it fosters understanding and builds trust. People who trust each other also feel comfortable disclosing personal information and showing vulnerability, which can help to deepen their connection."
+    },
+    {
+        "instruction": "Select the most suitable word to describe the following definition.\n\"A large group of people, animals, or things that are all similar in another way\"",
+        "input": "",
+        "output": "Herd."
+    },
+    {
+        "instruction": "List five alternative sources of energy",
+        "input": "",
+        "output": "1. Solar energy\n2. Wind energy\n3. Hydropower\n4. Geothermal energy\n5. Biomass energy"
+    },
+    {
+        "instruction": "Calculate the value of X in the equation 8X+6=14",
+        "input": "",
+        "output": "X = 1"
+    },
+    {
+        "instruction": "Write an argument in favor of gun control laws.",
+        "input": "",
+        "output": "Gun control laws are necessary to protect the safety of citizens in the United States. Gun violence continues to plague our nation, and the only way to reduce it is to enact stricter regulations on how guns are obtained, used, and stored. Gun control laws can save lives by preventing criminals and people with mental illness from accessing firearms, reducing the number of mass shootings, and limiting access to firearms for potential suicide victims. Further, gun control laws can prevent unintentional shootings and reduce the risk of gun-related violence."
+    },
+    {
+        "instruction": "What techniques help an individual lower their stress?",
+        "input": "",
+        "output": "Techniques that can help an individual lower their stress include setting aside time for relaxation, getting enough sleep, exercising regularly, eating healthy meals, engaging in positive self-talk, and engaging in mindfulness activities such as yoga or meditation."
+    },
+    {
+        "instruction": "Arrange the given pieces of information into a logical sequence.",
+        "input": "i. Verify the user's identity\nii. Process the payment\niii. Offer customer support\niv. Display order confirmation",
+        "output": "i. Verify the user's identity\nii. Process the payment\niii. Display order confirmation\niv. Offer customer support"
+    },
+    {
+        "instruction": "Take the following sentence and make it a description of a person",
+        "input": "He studies physics",
+        "output": "He is a physics student who is passionate about understanding the laws of nature."
+    },
+    {
+        "instruction": "Change the given sentence so that it contains a negative term.",
+        "input": "The view was magnificent.",
+        "output": "The view was not unimpressive."
+    },
+    {
+        "instruction": "Delete any words in the following sentence that are unnecessary.",
+        "input": "This picture of an elephant is absolutely breathtaking.",
+        "output": "This picture of an elephant is breathtaking."
+    }
+]

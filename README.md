@@ -1,6 +1,6 @@
 # MoDS: Model-oriented Data Selection for Instruction Tuning
 
-This directory contains the codes of MoDS to select valuable instruction data from large-scale datasets for a given LLM. 
+This repo contains the codes of MoDS to select valuable instruction data from large-scale datasets for a given LLM. 
 
 ### Introduction
 
@@ -47,7 +47,7 @@ The quality of instruction data plays a crucial role in the learning of instruct
 
 After getting a high-quality instruction dataset, we will further select data from it. In order to select diverse instruction data with the maximum coverage, we propose to use K-Center greedy algorithm for data selection.
 
-- Step 1: In order to compute the sentence embeddings of different instructions, we will download the [bert-base-uncased](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large-v2) model firstly, and then put it into the folder of "models".
+- Step 1: In order to compute the sentence embeddings of different instructions, we will download the [bert-base-uncased](https://huggingface.co/bert-base-uncased) model firstly, and then put it into the folder of "models".
 
 - Step 2: After downloading the bert-base-uncased model, we will run the following script to seed instrucitons from high-quality dataset. "top_k" represents the number of seed instructions to be selected.
 
@@ -61,7 +61,7 @@ python run.py ../quality-evaluation/high-quality-data.json ./seed-instructions.j
 
 For different LLMs, as the knowledge and capabilities they learned in the pre-training procedure are different, the instruction tuning data they require will be different as well. For one instruction, if the given LLM could generate a good response, it indicates that the given LLM has owned the ability to handle this type of instruction, and this instruction data is not necessary for the fine-tuning of the LLM. Conversely, if the LLM cannot generate a good response, it suggests that the LLM couldn't effectively process that type of instruction data, and the instruction data is very important and unique for the fine-tuning of the target LLM. In this stage, we will extract these instructions with bad responses to build a augmented dataset for the given LLM.
 
-- Step 1: In order to find out these missed instructions, we first fine-tune the pre-trained LLM with the seed instruction dataset, generating an initial LLM. Especially, beforing fine-tuning procedure, we should download the pre-trained llama2 model and put it into the folder of "model".  We can run the following scripts to fine-tune the pre-trained LLM.
+- Step 1: In order to find out these missed instructions, we first fine-tune the pre-trained LLM with the seed instruction dataset, generating an initial LLM. Especially, beforing fine-tuning procedure, we should download the pre-trained [llama2](https://huggingface.co/meta-llama/Llama-2-7b-hf) model and put it into the folder of "model".  We can run the following scripts to fine-tune the pre-trained LLM.
 
   ```
   cd train
@@ -175,3 +175,5 @@ Please cite the paper if you use the data or code in this repo.
       primaryClass={cs.CL}
 }
 ```
+
+Naturally, you should also cite the work of LLaMA2 and Alpaca.
